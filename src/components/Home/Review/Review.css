@@ -1,0 +1,53 @@
+.review{
+    padding: 100px 0px;
+    background-color: #1192F8;
+}
+.ReviewText h1{
+    color: #fff;
+    font-size: 42px;
+    text-transform: uppercase;
+}
+
+
+
+.reviewCard{
+    margin-top:100px;
+    padding: 28px;
+    box-shadow:0px 0px 5px rgba(128, 128, 128, 0.438);
+    border-radius:6px;
+    margin-bottom: 25px;
+    background-color:#fff;
+}
+.reviewCard p {
+    color: #595762;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: justify;
+}
+.reviewCard h3 {
+    color: #3C3C3E;
+    font-size: 25px;
+    line-height: 32px;
+    padding-bottom: 15px;
+}
+.reviewImg {
+    text-align: center;
+    padding: 0px 20px;
+}
+.reviewImg img{
+  width:90px;
+  border-radius: 50%;
+}
+.reviewInfo{
+    padding-bottom: 30px;
+}
+.reviewName h5{
+   color:#6ACECE;
+   font-size:20px;
+   font-weight:700px;
+}
+.blogName h6{
+   color:#8F8C9B;
+   font-size:16px;
+   font-weight:500px;
+}

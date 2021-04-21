@@ -1,0 +1,40 @@
+.contact{
+        padding:80px 0px;
+}
+.contactTitle{
+    padding-bottom: 60px;
+}
+.contactTitle h3{
+    color: #1192F8;
+    font-size:30px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.contactTitle h1{
+    font-size:48px;
+    color: #1192F8;
+}
+.form input,
+.form textarea{
+    padding: 24px 25px;
+    font-size: 18px;
+    margin-bottom: 31px;
+}
+.form textarea{
+   height:200px;
+}
+.form input::placeholder,
+.form textarea::placeholder{
+    color:#B4B3B6;
+}
+.form button{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #1192F8;
+    background: linear-gradient(to right,#DEFF66,#DEFF66);
+    font-family: 'Poppins', sans-serif;
+    padding: 13px 60px;
+    border: 0;
+}

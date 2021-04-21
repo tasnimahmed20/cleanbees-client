@@ -1,0 +1,34 @@
+.services{
+    padding: 100px 0px;
+}
+.services h1{
+    color:#1192F8;
+}
+.serviceContent {
+    padding: 20px;
+    text-align: center;
+    color: #1192F8;
+    margin-bottom: 30px;
+}
+.serviceContent img{
+    width:150px;
+    border-radius: 50%;
+}
+.serviceContent h4{
+    font-size:20px;
+    margin-top: 18px;
+}
+.serviceContent p{
+    font-size:16px;
+    margin-bottom:6px;
+}
+.serviceContent a{
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #1192F8;
+    background: linear-gradient(to right,#DEFF66,#DEFF66);
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 36px;
+    border: 0;
+    margin-top: 18px;
+}

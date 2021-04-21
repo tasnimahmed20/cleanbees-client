@@ -1,0 +1,17 @@
+.footer{
+    padding-top:100px ;
+    padding-bottom:25px;
+    color:#fff;
+    background-color:#1192F8;
+}
+.footer h1,.footer h3,.footer h2{
+    margin-bottom: 40px;
+}
+.footer p{
+    margin-bottom: 0px;
+}
+.footer h5{
+    font-size:22px;
+    font-weight:400;
+    margin-top: 50px;
+}

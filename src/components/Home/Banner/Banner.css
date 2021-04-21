@@ -1,0 +1,25 @@
+.banner{
+    padding: 160px 0px;
+    background-color: #1192F8;
+}
+.banner-text{
+    color: #fff;
+}
+.banner-text h1{
+    font-size:65px;
+    font-weight:700;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+.banner-text p{
+    width:50%;
+    font-size:20px;
+    margin: 40px auto;
+
+}
+.banner-text a{
+    font-size:18px;
+    background-color: #DEFF66;
+    padding:14px 70px;
+    text-decoration: none;
+}

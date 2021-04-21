@@ -1,0 +1,18 @@
+.banner{
+    padding: 160px 0px;
+    background-color: #1192F8;
+}
+.service-text{
+    color: #fff;
+}
+.service-text h2{
+    font-size:45px;
+    font-weight:700;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+.service-text p{
+    width:95%;
+    font-size:18px;
+
+}
